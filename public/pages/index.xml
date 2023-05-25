@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on cibimn</title>
+    <link>https://cibimn.vercel.app/pages/</link>
+    <description>Recent content in Pages on cibimn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cibimn.vercel.app/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://cibimn.vercel.app/pages/about/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cibimn.vercel.app/pages/about/</guid>
+      <description>Hi there 👋, my name is Manivannan Nagarajan aka cibi. I am an Python Developer from India. I&amp;rsquo;ve 6 Years Experience in Python Development.
+Experience Current work as an Full Stack Developer (2022 - current) For the past 6 Months, I have been working as Full Stack Developer for Singularium Technologies PVT Ltd where I will be working mostly on Backend and little bit of Front end.
+Common types of work I do for Singluarium:</description>
+    </item>
+    
+  </channel>
+</rss>
