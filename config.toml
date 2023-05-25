@@ -1,3 +1,49 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cibimn.in/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'cibimn'
+theme = "hugo-blog-awesome"
+defaultContentLanguage = "en-gb"
+enableEmoji = true
+
+[menu]
+  [[menu.main]]
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+    [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
+
+[params]
+  sitename = "cibimn"
+  defaultColor = "dark" 
+  description = "A blog about my programming projects."
+  mainSections = ['posts']
+  toc = false
+  goToTop = true
+
+[params.author]
+  avatar = "cibi.jpg" #
+  intro = "Manivannan Nagarajan"
+  name = "cibimn"
+  description = "A blog about my programming projects."
+
+[params.browserconfig]
+  TileColor = "#2d89ef"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/cibimn"
+
+[tableOfContents]
+startLevel = 2 # ToC starts from H2
+endLevel = 4 # ToC ends at H4
+ordered = false # generates <ul> instead of <ol>
