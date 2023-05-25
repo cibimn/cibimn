@@ -1,4 +1,4 @@
-baseURL = 'https://cibimn.in/'
+baseURL = 'https://cibimn.vercel.app/'
 languageCode = 'en-us'
 title = 'cibimn'
 theme = "hugo-blog-awesome"
