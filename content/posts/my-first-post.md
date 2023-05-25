@@ -1,7 +1,7 @@
 ---
 title: "Why This Blog and My Project Documentation Journey"
 date: 2023-05-07T09:16:02+05:30
-draft: true
+draft: false
 ---
 
 Hello and welcome to my first blog post! If you're reading this, then you're witnessing the beginning of my journey as I document my projects and share my experiences as a developer. I've created this space to provide an insight into my world of coding, specifically with Node.js (particularly Next.js), DevOps, and automation with Raspberry Pi.
