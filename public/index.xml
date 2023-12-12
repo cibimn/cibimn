@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cibimn</title>
+    <link>https://cibimn.vercel.app/</link>
+    <description>Recent content on cibimn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2023 15:14:40 +0530</lastBuildDate><atom:link href="https://cibimn.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mv Roles Part 1</title>
+      <link>https://cibimn.vercel.app/posts/mv-roles-part-1/</link>
+      <pubDate>Tue, 12 Dec 2023 15:14:40 +0530</pubDate>
+      
+      <guid>https://cibimn.vercel.app/posts/mv-roles-part-1/</guid>
+      
+      <description>Welcome to our latest blog post! Today, I&amp;rsquo;m excited to introduce a sophisticated Flask application designed to provide a comprehensive web service. This application stands out with its robust structure, integrating various technologies and modules to deliver a seamless user experience. Let&amp;rsquo;s delve into the key aspects and structure of this application.
+Overview MVRoles Flask application is more than just a backend service; it&amp;rsquo;s a multifaceted platform that incorporates user authentication, database interactions, logging, third-party integrations, and much more.</description>
+      
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://cibimn.vercel.app/posts/intro/</link>
+      <pubDate>Sun, 07 May 2023 15:06:17 +0530</pubDate>
+      
+      <guid>https://cibimn.vercel.app/posts/intro/</guid>
+      
+      <description>Hello and welcome to my first blog post! If you&amp;rsquo;re reading this, then you&amp;rsquo;re witnessing the beginning of my journey as I document my projects and share my experiences as a developer. I&amp;rsquo;ve created this space to provide an insight into my world of coding, specifically with Node.js (particularly Next.js), DevOps, and automation with Raspberry Pi.
+Why This Blog? In the world of development and technology, continuous learning is key. Throughout my journey, I&amp;rsquo;ve realized that documenting my work not only helps me consolidate my learning, but also provides an opportunity for others to learn from my experiences.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
