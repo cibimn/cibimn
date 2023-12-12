@@ -6,19 +6,7 @@
     <description>Recent content in Posts on cibimn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Dec 2023 01:05:43 +0530</lastBuildDate><atom:link href="https://cibimn.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mv Roles Part 1</title>
-      <link>https://cibimn.vercel.app/posts/mv-roles-part-1/</link>
-      <pubDate>Mon, 04 Dec 2023 01:05:43 +0530</pubDate>
-      
-      <guid>https://cibimn.vercel.app/posts/mv-roles-part-1/</guid>
-      
-      <description>Welcome to our latest blog post! Today, I&amp;rsquo;m excited to introduce a sophisticated Flask application designed to provide a comprehensive web service. This application stands out with its robust structure, integrating various technologies and modules to deliver a seamless user experience. Let&amp;rsquo;s delve into the key aspects and structure of this application.
-Overview MVRoles Flask application is more than just a backend service; it&amp;rsquo;s a multifaceted platform that incorporates user authentication, database interactions, logging, third-party integrations, and much more.</description>
-      
-    </item>
-    
+    <lastBuildDate>Sun, 07 May 2023 09:16:02 +0530</lastBuildDate><atom:link href="https://cibimn.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why This Blog and My Project Documentation Journey</title>
       <link>https://cibimn.vercel.app/posts/my-first-post/</link>
